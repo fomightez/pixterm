@@ -6,9 +6,15 @@
 
 ```
 
+-----
+
+# `PIXterm` - *draw images in your ANSI terminal with true color*
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/pixterm/HEAD?filepath=how_to_run_pixterm.ipynb)
 
 Click on the `launch binder` button above to get a demonstration right in your browser.
+
+-----
 
 # `PIXterm` - *draw images in your ANSI terminal with true color*
 
