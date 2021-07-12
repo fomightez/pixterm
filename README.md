@@ -16,8 +16,6 @@ Click on the `launch binder` button above to get a demonstration right in your b
 
 -----
 
-# `PIXterm` - *draw images in your ANSI terminal with true color*
-
 **`PIXterm`** ***shows images directly in your terminal***, recreating the pixels through a combination of [ANSI character background color](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors) and the [unicode lower half block element](https://en.wikipedia.org/wiki/Block_Elements). If image has transparency, an optional matte color can be used for background. Also, you can specify a dithering mode; in which case, the image is rendered using block elements with different shades, or using standard ASCII characters in the same way. In dithering mode, the matte color is used to fill the background of the blocks or characters.
 
 The conversion process runs fast because it is parallelized in all CPUs.
