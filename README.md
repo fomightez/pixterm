@@ -6,6 +6,8 @@
 
 ```
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/pixterm/HEAD?filepath=how_to_run_pixterm.ipynb)
+
 # `PIXterm` - *draw images in your ANSI terminal with true color*
 
 **`PIXterm`** ***shows images directly in your terminal***, recreating the pixels through a combination of [ANSI character background color](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors) and the [unicode lower half block element](https://en.wikipedia.org/wiki/Block_Elements). If image has transparency, an optional matte color can be used for background. Also, you can specify a dithering mode; in which case, the image is rendered using block elements with different shades, or using standard ASCII characters in the same way. In dithering mode, the matte color is used to fill the background of the blocks or characters.
@@ -123,3 +125,7 @@ If you use Arch Linux, `eigengrau` has kindly created an AUR package for **`PIXt
 * [@Calinou](https://github.com/Calinou)
    * Use HTTPS URLs everywhere.
    * Other awesome contributions.
+
+
+Binderized by Wayne (Fomightez on Github and Twitter)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/pixterm/HEAD?filepath=how_to_run_pixterm.ipynb)
